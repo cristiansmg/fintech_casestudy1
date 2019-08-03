@@ -27,31 +27,24 @@ The company leverages on Peer-to-Peer transfers by matching people sending money
 
 ## Landscape:
 
-* What domain of the financial industry is the company in?
+Transferwise operates in the Peer-to-peer transfer and credit domain, although customers do not have any interface with the peers involved in the transactions. After requesting an international wire transfer, the customer is requested to deposit the amounts to a national TransferWise bank account. TrasnferWise then will use one of its bank accounts located in the country the sender wants to send money to and from there the cash will be transferred to the bank account the sender requested. Technically the money send and received is not cross-boarding the countries.
 
-* What have been the major trends and innovations of this domain over the last 5-10 years?
+According to a CNBC report, fintech companies accounted for 38 percent of all US personal loans in 2018. This represented a growth from merely 5% accounted for in the year of 2013. One of the revolutionary aspects of the P2P FinTech disruptions over the past few years was the easement of access to credit, specially for people that had a bad credti history or low income. As traditional banks often require good credit history and guarantees for loan repayments, FinTech companies are more flexible on those requirements as they can use technology to better analyze its customers and their likelyhood of repayment. A good example of FinTech comapanies that utilizes flexible access to credit by P2P loans is ZestFinance. It uses unconventional metrics to underwrite loans to those with low credit scores or thin credit histories. Example: Borrowers who enter their name in all caps in the online application are poorer risks. Zest was chosen to underwrite loans on big Chinese retail site JD.com
 
-* What are the other major companies in this domain?
+![Image5](https://mms.businesswire.com/media/20190304005507/en/708608/4/3751876_zest_finance_logo_sansation_final_tiff.jpg?download=1)
 
+In terms of competition, TransferWise currently have 7 major FinTech companies that are also specialized in international remmitances. Although all of them offer more attactive rates than traditional financial institutions, TransferWise seems to have more credibility as it has the biggest [TrustPilot](https://www.trustpilot.com/review/transferwise.com) rates among them.
+
+![Image6](https://cdn.icomparefx.com/wp-content/uploads/2018/12/TransferWise_Competitors-400px.jpg)
 
 ## Results
 
-* What has been the business impact of this company so far?
-
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
-
-* How is your company performing relative to competitors in the same domain?
+Currently TransferWise has helped more than 5 million of people saving money while performing international remmitances by providing its customers a fair exchange rate and minimal fees. It is not only providing its customers with easy money transfer but since 2018 it started to offer other solutions, such as a bordless debit card, where people can use to buy in 40 different countries, and also a boardless bank account. 
 
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!) 
-
-* Why do you think that offering this product or service would benefit the company?
-
-* What technologies would this additional product or service utilize? 
-
-* Why are these technologies appropriate for your solution?
+As of now, TransferWise has been pioneer in offering different solutions for immigrants, expats and travellers on money remmitance and spend in different countries. As things evolve quickly in the FinTech field, it woud be nice to see what else the company can offer its customers in order to differentiate them from competitors. A possible innovation would be the offering of loans, that could be capitalized on different countries, taking advanage of countries that have lower rates and allocating those resources to countries with bigger rates. Also the company could dig deeper int he B2B markert and maybe offer international payroll services to multi-national companies, where the payroll could run in an specific country and currency and then be allocated to each individual around the world.
 
 
 
