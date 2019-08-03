@@ -45,6 +45,12 @@ Currently TransferWise has helped more than 5 million people saving money while 
 As of now, TransferWise has been pioneer in offering different solutions for immigrants, expats and travellers on money remmitance and spend in different countries. As things evolve quickly in the FinTech field, it woud be nice to see what else the company can offer its customers in order to differentiate them from competitors. A possible innovation would be the offering of loans, that could be capitalized in different countries, taking advanage of countries that have lower rates and allocating those resources to countries with bigger rates. Also the company could dig deeper into the B2B markert and maybe offer international payroll services to multi-national companies, where the payroll could run in an specific country and currency and then be allocated to each individual around the world.
 
 
+## References
+
+https://www.trustpilot.com/review/transferwise.com
+https://transferwise.com/us
+https://www.businessinsider.com/transferwise-valuation-doubles-after-secondary-share-round-2019-5
+https://www.zestfinance.com
 
 
 
